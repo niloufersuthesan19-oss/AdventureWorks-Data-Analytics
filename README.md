@@ -1,1 +1,1 @@
-# AdventureWorks-Data-Analytics
+# AdventureWorks-BI-Analytics
